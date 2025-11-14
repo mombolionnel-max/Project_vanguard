@@ -16,11 +16,12 @@
 ## Content 
    
 ##### Description
-##### Data Overview
-##### Hypothesis Testing
-##### Experiment Evaluation
-##### Conclusion
-
+##### Installation and Setup
+##### Built with
+##### Data Structure
+##### Usage and Getting Started
+##### Key Analysis Steps
+##### Contribution and Enhancements
 
 
 
